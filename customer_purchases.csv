@@ -1,0 +1,201 @@
+Customer_ID,Age,Gender,Region,Total_Spent,Purchase_Frequency,Product_Category,Customer_Rating
+1001,56,Male,East,1973.55,25,Fashion,1.9
+1002,46,Female,West,761.06,17,Books,4.9
+1003,32,Male,North,753.87,7,Toys,4.1
+1004,60,Male,South,1629.34,22,Electronics,1.5
+1005,25,Male,South,1895.55,26,Books,3.3
+1006,38,Female,North,1972.28,12,Home & Garden,4.9
+1007,56,Female,East,1511.69,25,Books,2.9
+1008,36,Male,South,764.99,17,Toys,1.7
+1009,40,Male,South,185.33,13,Electronics,2.9
+1010,28,Female,South,1558.75,20,Electronics,3.0
+1011,28,Male,North,1125.64,25,Toys,4.0
+1012,41,Male,West,859.96,4,Toys,3.8
+1013,53,Female,South,1814.58,10,Home & Garden,2.6
+1014,57,Other,West,240.17,3,Electronics,1.9
+1015,41,Male,East,995.4,9,Books,3.6
+1016,20,Female,South,42.48,13,Fashion,2.7
+1017,39,Female,South,947.95,18,Fashion,1.5
+1018,19,Male,East,131.48,15,Toys,4.6
+1019,41,Female,South,255.26,4,Home & Garden,3.8
+1020,61,Male,West,252.7,15,Fashion,3.7
+1021,47,Female,North,1305.44,22,Electronics,4.3
+1022,55,Female,West,1497.17,2,Toys,3.1
+1023,19,Female,North,1175.07,15,Books,4.3
+1024,38,Male,North,1925.1,8,Toys,3.0
+1025,50,Female,West,762.24,8,Books,1.3
+1026,29,Male,West,585.71,17,Toys,2.6
+1027,39,Male,West,1739.83,12,Toys,3.0
+1028,61,Male,West,462.72,19,Toys,3.9
+1029,42,Female,East,1927.18,10,Books,1.4
+1030,44,Female,South,44.07,9,Books,1.6
+1031,59,Male,North,1940.36,5,Toys,2.1
+1032,45,Female,West,105.46,6,Fashion,2.1
+1033,33,Male,West,1784.46,20,Home & Garden,3.9
+1034,32,Female,West,1064.85,26,Home & Garden,2.0
+1035,64,Male,East,1986.07,2,Home & Garden,3.5
+1036,61,Female,West,166.12,27,Books,3.0
+1037,20,Male,West,1116.63,24,Books,3.3
+1038,54,Female,West,1939.22,27,Fashion,4.4
+1039,24,Male,South,1055.73,13,Home & Garden,2.6
+1040,38,Male,East,1266.21,6,Home & Garden,4.1
+1041,26,Male,West,1397.58,5,Toys,2.7
+1042,56,Female,North,919.99,25,Books,2.4
+1043,35,Female,North,1262.56,1,Home & Garden,4.8
+1044,21,Male,North,1176.94,21,Fashion,1.7
+1045,42,Female,East,1804.29,22,Fashion,1.4
+1046,31,Female,East,109.98,21,Home & Garden,4.1
+1047,26,Female,North,576.31,6,Books,1.3
+1048,43,Female,West,1901.81,6,Fashion,4.3
+1049,19,Male,East,1782.72,23,Toys,2.7
+1050,37,Male,North,922.2,16,Fashion,4.7
+1051,45,Female,North,1247.86,4,Electronics,3.9
+1052,64,Female,West,569.21,11,Electronics,3.4
+1053,24,Female,South,392.48,24,Books,4.8
+1054,61,Male,East,938.12,23,Home & Garden,2.6
+1055,25,Male,West,719.64,9,Books,4.8
+1056,64,Female,North,1175.64,23,Books,1.5
+1057,52,Female,North,173.91,3,Books,2.9
+1058,31,Female,West,1949.3,19,Books,2.1
+1059,34,Female,East,1972.7,8,Toys,3.2
+1060,53,Female,South,1402.36,5,Toys,1.6
+1061,57,Male,South,1081.47,4,Fashion,4.4
+1062,21,Male,North,632.86,24,Electronics,4.4
+1063,19,Female,East,1631.31,6,Books,4.8
+1064,23,Female,South,1375.77,2,Fashion,1.6
+1065,59,Male,East,341.98,20,Electronics,3.5
+1066,21,Male,East,1823.64,28,Home & Garden,2.9
+1067,46,Female,North,1648.62,11,Toys,2.4
+1068,35,Male,South,1900.6,4,Electronics,2.4
+1069,43,Male,West,1456.92,15,Home & Garden,2.7
+1070,61,Female,North,1234.56,6,Electronics,3.8
+1071,51,Female,South,848.12,22,Toys,3.4
+1072,27,Female,South,1866.8,17,Toys,2.8
+1073,53,Male,South,1734.81,24,Fashion,1.3
+1074,31,Female,South,109.53,6,Books,1.3
+1075,48,Male,South,72.21,19,Electronics,1.0
+1076,32,Male,East,765.4,25,Electronics,4.9
+1077,25,Female,North,1624.9,2,Home & Garden,1.0
+1078,31,Female,East,1974.81,15,Toys,1.4
+1079,40,Female,West,317.83,11,Electronics,2.3
+1080,57,Female,South,1196.38,8,Toys,4.2
+1081,38,Female,North,774.16,26,Electronics,4.8
+1082,33,Male,South,1940.43,19,Fashion,4.2
+1083,62,Male,North,1687.4,13,Books,3.8
+1084,35,Male,East,1679.89,12,Electronics,3.1
+1085,64,Male,North,948.01,5,Toys,1.3
+1086,41,Other,West,841.34,6,Fashion,4.8
+1087,43,Male,West,561.35,26,Electronics,4.0
+1088,42,Female,North,131.62,22,Home & Garden,3.6
+1089,62,Female,North,1732.15,4,Books,4.0
+1090,58,Female,North,1629.54,19,Electronics,3.9
+1091,46,Female,North,1999.44,20,Fashion,3.5
+1092,32,Female,West,1993.34,1,Home & Garden,4.9
+1093,62,Female,South,1119.75,20,Fashion,4.6
+1094,18,Male,North,1542.6,17,Fashion,3.6
+1095,42,Female,North,1890.64,12,Home & Garden,3.8
+1096,24,Male,West,1702.3,15,Fashion,1.2
+1097,26,Male,West,509.75,1,Home & Garden,3.7
+1098,41,Female,East,912.08,26,Electronics,1.2
+1099,18,Male,North,275.74,14,Home & Garden,3.4
+1100,61,Female,East,1909.02,6,Home & Garden,5.0
+1101,25,Female,West,1220.23,5,Books,3.2
+1102,41,Female,West,472.71,11,Home & Garden,2.9
+1103,28,Male,South,1349.97,4,Home & Garden,2.3
+1104,34,Male,North,1243.89,13,Electronics,1.5
+1105,25,Female,East,729.16,11,Books,3.9
+1106,52,Male,West,244.84,3,Toys,1.8
+1107,52,Other,West,1349.71,1,Electronics,1.5
+1108,50,Other,East,1050.21,6,Electronics,2.7
+1109,22,Female,South,1549.19,18,Toys,4.2
+1110,59,Male,West,1049.92,24,Home & Garden,4.0
+1111,56,Male,North,1707.32,10,Fashion,1.2
+1112,58,Female,West,1112.78,5,Books,2.8
+1113,45,Male,North,1130.66,23,Fashion,3.1
+1114,24,Male,East,1755.77,10,Toys,3.6
+1115,26,Female,North,818.9,12,Electronics,3.6
+1116,25,Female,East,285.35,2,Electronics,2.5
+1117,29,Female,North,76.99,13,Books,3.2
+1118,51,Female,East,1515.17,8,Electronics,2.9
+1119,50,Male,North,1248.21,2,Electronics,4.5
+1120,40,Female,South,1414.08,20,Books,3.1
+1121,41,Other,North,441.67,1,Books,2.8
+1122,54,Male,North,290.02,5,Toys,2.6
+1123,52,Female,South,48.8,9,Electronics,3.3
+1124,61,Female,West,714.16,17,Electronics,4.2
+1125,57,Female,West,1188.04,9,Toys,3.2
+1126,39,Female,North,796.64,11,Home & Garden,3.6
+1127,44,Female,South,886.2,15,Home & Garden,4.0
+1128,52,Male,North,1810.23,24,Home & Garden,3.1
+1129,18,Male,East,709.55,6,Toys,2.7
+1130,52,Female,East,1037.7,23,Electronics,4.5
+1131,54,Female,North,1571.63,3,Toys,2.7
+1132,64,Female,West,805.15,17,Toys,2.8
+1133,31,Female,West,1251.73,5,Home & Garden,5.0
+1134,20,Female,North,1727.48,28,Fashion,1.0
+1135,18,Female,North,1900.05,12,Electronics,1.7
+1136,22,Female,East,311.21,18,Home & Garden,2.5
+1137,43,Female,West,1854.64,14,Fashion,4.7
+1138,31,Female,North,994.39,21,Fashion,1.3
+1139,56,Female,East,531.32,24,Books,1.0
+1140,44,Female,West,929.09,11,Electronics,1.2
+1141,26,Male,South,1960.46,9,Fashion,1.4
+1142,32,Male,East,995.38,2,Home & Garden,1.2
+1143,32,Male,West,670.93,12,Books,2.9
+1144,43,Female,West,1274.13,3,Electronics,3.3
+1145,59,Male,East,495.49,3,Toys,2.1
+1146,30,Male,South,170.21,1,Home & Garden,2.6
+1147,49,Female,East,275.18,8,Fashion,1.4
+1148,56,Male,West,273.53,22,Fashion,2.3
+1149,49,Female,North,320.77,28,Home & Garden,3.1
+1150,21,Male,North,294.88,29,Fashion,3.9
+1151,47,Male,East,1288.93,8,Books,1.0
+1152,54,Female,West,380.12,11,Electronics,2.9
+1153,40,Male,North,704.42,9,Books,2.2
+1154,56,Male,West,1795.64,5,Fashion,4.4
+1155,62,Female,East,958.44,14,Toys,3.9
+1156,32,Female,North,1341.76,28,Electronics,3.4
+1157,60,Male,West,361.19,3,Electronics,2.1
+1158,46,Female,North,400.73,21,Home & Garden,4.6
+1159,53,Male,East,100.92,5,Home & Garden,1.2
+1160,30,Male,West,354.49,5,Toys,1.4
+1161,49,Female,North,571.61,19,Electronics,2.6
+1162,24,Female,East,370.48,27,Toys,1.5
+1163,39,Female,North,195.63,14,Home & Garden,4.8
+1164,45,Female,North,258.86,26,Home & Garden,4.2
+1165,19,Other,South,932.34,4,Electronics,2.0
+1166,59,Female,South,428.54,25,Books,3.4
+1167,62,Male,East,741.25,13,Fashion,4.9
+1168,23,Female,South,1016.77,10,Home & Garden,4.5
+1169,45,Male,East,1386.98,25,Home & Garden,3.4
+1170,45,Male,South,97.84,18,Books,4.6
+1171,61,Male,North,1602.83,8,Books,5.0
+1172,61,Male,East,1263.24,8,Toys,4.0
+1173,37,Other,East,181.88,7,Toys,1.3
+1174,47,Female,North,1749.69,8,Fashion,2.6
+1175,28,Female,East,1843.33,14,Fashion,4.4
+1176,45,Male,East,140.93,19,Electronics,1.9
+1177,42,Male,South,568.22,29,Toys,4.3
+1178,56,Male,East,1616.28,6,Home & Garden,1.5
+1179,50,Male,West,1501.55,1,Toys,1.2
+1180,18,Female,North,385.35,23,Home & Garden,2.5
+1181,44,Female,South,434.51,15,Books,1.1
+1182,30,Female,South,753.53,1,Toys,4.8
+1183,58,Male,West,979.36,25,Books,4.3
+1184,20,Female,North,1244.14,17,Fashion,4.2
+1185,56,Female,North,750.45,1,Fashion,3.5
+1186,23,Female,South,935.82,15,Electronics,1.9
+1187,25,Female,East,1499.99,23,Toys,3.1
+1188,44,Male,South,92.63,2,Books,3.4
+1189,26,Male,North,519.83,14,Home & Garden,3.1
+1190,54,Male,West,1432.43,21,Fashion,2.0
+1191,50,Female,South,1792.51,8,Fashion,3.1
+1192,59,Male,North,1033.12,8,Home & Garden,3.0
+1193,61,Male,South,1073.58,19,Books,5.0
+1194,41,Male,East,232.2,7,Books,4.6
+1195,32,Male,South,905.88,19,Toys,2.9
+1196,49,Female,South,1074.58,6,Toys,3.5
+1197,49,Female,North,500.09,6,Electronics,4.0
+1198,41,Male,North,553.1,3,Fashion,1.1
+1199,58,Male,North,767.02,7,Toys,4.6
+1200,29,Female,South,59.74,19,Books,4.4
